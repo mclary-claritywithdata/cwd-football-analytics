@@ -1,2 +1,3 @@
-# cwd-football-analytics
-NFL analytics project using play-by-play data to explore clarity vs chaos in football.  Includes the Clarity Kickoff Score, Red/Yellow/Green flag classification, and data storytelling designed for education, content, and fun - not betting. 
+This project uses NFL play-by-play data to compute a Clarity Kickoff Score,
+highlighting teams that manage mistakes and decision-making most effectively.
+Built for education, storytelling, and fun — not betting or predictions.
